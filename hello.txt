@@ -1,4 +1,5 @@
 Hello guys
 1. git init - for each folder you wanna track
 2. git status - to check whether any file is available for commit
-3. git add - to track file or a specific folder
+3. git add - to track file or a specific folder/ add to staging area
+4. git commit -m - to commit the final changes with a message
